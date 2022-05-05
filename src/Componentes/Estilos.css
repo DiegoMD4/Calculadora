@@ -1,0 +1,34 @@
+.App{
+    
+    border: solid red;   
+    position: absolute;
+    left: 40%;
+    padding: 50px;
+    bottom: 300px;
+    background-color: aquamarine;
+    
+  }
+  
+button{
+    position: relative;
+    right: 10%;
+    height: 40px;
+    width: 70px;
+    font-size: 20px;
+}
+
+.Texto{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    left: 20px;
+    background-color: white;
+    top: 5px;
+    height: 35px;
+    width: 280px;
+    border-color: black;
+    border-width: 1px;
+    font-size: 24px;
+    text-align: right;
+}
+
